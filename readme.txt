@@ -9,7 +9,7 @@ to launch, from terminal:
 >node server.js
 
 Then to play the game, go to the following in a web-browser (preferably chrome):
-http://localhost:8080
+http://localhost:3000
 
 
 
