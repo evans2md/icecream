@@ -1,0 +1,20 @@
+{
+  "name": "mopsy-icecream",
+  "main": "server.js",
+  "description": "ice cream task for mobile",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": "4.4.*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cf-deployment-tracker-client": "^0.1.4",
+    "express": "^3.4.8",
+    "jslint": "^0.10.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
