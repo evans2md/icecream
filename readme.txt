@@ -4,15 +4,14 @@ By Michael Evans
 
 This game is based on the Balloon Analog Risk Task (BART; Lejuez et al., 2002; http://www.impulsivity.org/measurement/BART) 
 
+Try it out! (10 trials) -> www.mdevans.me/projects/icecream.html 
+
 Local testing (node server)
 to launch, from terminal:
 >node server.js
 
 Then to play the game, go to the following in a web-browser (preferably chrome):
 http://localhost:3000
-
-
-
 
 In the ice cream game, your goal is to sell as many scoops of ice scream as possible on each trial. The more scoops you sell, the more points you earn (*YAY!*). But! Be careful! At ANY point, your tower of ice cream may become too tall and fall over (*SPLAT!*), leaving you with NOTHING to sell (0 points for that trial). You have a limited number of trials, but enough ice cream for up to 64 scoops for each trial.
 
